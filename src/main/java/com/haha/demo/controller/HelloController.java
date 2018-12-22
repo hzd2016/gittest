@@ -17,6 +17,6 @@ public class HelloController {
     */
     @RequestMapping("/hello")
     public String index() {
-        return "wodongle";
+        return "wodongleHellotest";
     }
 }
